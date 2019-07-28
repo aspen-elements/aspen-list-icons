@@ -1,4 +1,4 @@
-# \<aspen-list-icons\>
+# <aspen-list-icons\>
 
 
 
